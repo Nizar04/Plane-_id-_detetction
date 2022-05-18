@@ -1,0 +1,10 @@
+{
+  version: 1,
+  mediaFileName: 'Landing1.mp4',
+  cutSegments: [
+    {
+      start: 97.12128410373306,
+      name: '',
+    },
+  ],
+}
